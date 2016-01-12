@@ -7,6 +7,10 @@
 	</head>
 	<body>
 		
+	<div id="principal">
+	<div id="cabecera">
+	<div id="logo">
+		<img src="tescha2.jpg" alt="logotipo" width="300px" height="100px" />
 	</div>
 	</div>
 	<div id="lateral">
@@ -20,7 +24,12 @@
 						</ul>
 					</div>
 	</div>
+	<div id="contenido">
 	
+														
+<!--Aqui debes colocar todo lo relacionado a tu tema -->			
+	
+	</div>	
 	<div class="nofloat">
 	</div>
 	<div class="pie">
@@ -29,3 +38,4 @@
 	</div>
 	</body>
 	</html>
+
